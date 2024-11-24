@@ -40,7 +40,7 @@ p {
   margin-bottom: 16px;
 }
 
-.intro {
+.intro-wrapper {
   max-width: 360px;
   text-align: center;
 }
