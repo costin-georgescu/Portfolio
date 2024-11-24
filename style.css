@@ -39,3 +39,7 @@ p {
   width: 350px;
   margin-bottom: 16px;
 }
+
+.intro {
+  max-width: 360px;
+}
