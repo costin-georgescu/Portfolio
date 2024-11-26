@@ -44,3 +44,8 @@ p {
   max-width: 360px;
   text-align: center;
 }
+
+.orange {
+  font-family: 'Verdana', sans-serif;
+  color: #f18f01;
+}
